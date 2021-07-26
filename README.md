@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Spoorthi M R
-- 👀 I’m interested in Web Applications
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning at JNNCE,shivamoga.
 
 <!---
